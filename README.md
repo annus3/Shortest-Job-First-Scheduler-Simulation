@@ -19,10 +19,4 @@ The SJF algorithm is a CPU scheduling algorithm that selects the waiting process
 
 - Ensure you have a C compiler installed on your system.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/shortest-job-first.git
 
